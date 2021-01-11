@@ -1,5 +1,4 @@
-
----
+--
 # This YAML file lists all packs published on signalstickers.com.
 #
 # When adding a new pack, please remember to add it AT THE END OF THE FILE,
@@ -24276,4 +24275,11 @@ a55f56b74731a4f8fd31ddb69a716689:
     - football
   nsfw: false
   original: false
+  animated: false
+aa945357c9a5421d7dd2cc554fdd6371:
+  key: e39defee84c8e9955e81ef0f62e4be8017e1228c3cc5b5b1c89c764eb893934a
+  source: ''
+  tags: []
+  nsfw: false
+  original: true
   animated: false
